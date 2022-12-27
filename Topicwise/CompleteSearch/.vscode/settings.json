@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp"
+    }
+}
